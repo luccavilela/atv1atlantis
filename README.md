@@ -16,6 +16,5 @@ No diretório `atv1/`, execute os seguintes comandos para compilar o código Typ
 
 ```bash
 npm install
-npm install typescript
 npx tsc
 node src/js/teste/index.js
